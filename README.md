@@ -11,7 +11,7 @@
 <a href="https://instagram.com/edgarrr16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgarrr16" height="30" width="40" /></a>
 <a href="https://discord.gg/4NqrXY2qR5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4NqrXY2qR5" height="30" width="40" /></a>
 <a href="https://codepen.io/edgarignite16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edgarignite16" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17022128/edgar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17022128/edgar" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/17022128/edgar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17022128/edgar" height="30" width="40" /></a> -->
 </p>
 
 <div align="center">
