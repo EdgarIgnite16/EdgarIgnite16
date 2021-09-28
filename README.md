@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github</h1>
 <h4 align="center">I am a person with passion and interest in technology, especially new technology</h3>
-<p align="center"> - 🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></p>
+<p align="center">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
