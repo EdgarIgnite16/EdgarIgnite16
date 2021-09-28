@@ -17,7 +17,7 @@
 <div align="center">
 <div align="left">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edgarignite16&theme=tokyonight&hide_border=false" alt="edgarignite16" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=EdgarIgnite16&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="edgarignite16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=EdgarIgnite16&count_private=true&show_icons=true&theme=tokyonight&hide_border=false" alt="edgarignite16" /></p>
 </div align="right">
 <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarIgnite16&langs_count=8&theme=tokyonight&show_icons=true&hide_border=false" alt="edgarignite16" /></p></div>
 </div>
