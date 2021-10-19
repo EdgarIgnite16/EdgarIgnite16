@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github</h1>
+<h1 align="center">Hallo User</h1>
 <h3 align="center">I am a person with passion and interest in technology, especially new technology</br>I also love to learn new things especially learning from others</h3>
 <p align="center">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></p>
 
