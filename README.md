@@ -1,7 +1,9 @@
 <h1 align="left">Hello World ! Welcome to my Personal Github </h1>
 <h3 align="left">| I am a person with passion and interest in technology, especially new technology</br>| And I also love to learn new things especially learning from others</h3>
-<h4 align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></h4>
-<h4 align="left">🏫 And now I live and studying at <strong>Saigon University</strong></h4>
+<ul>
+<li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></li>
+<li align="left">🏫 And now I live and studying at <strong>Saigon University</strong></li>
+</ul>
 <br>
 
 
