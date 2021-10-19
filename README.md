@@ -1,7 +1,7 @@
 <h1 align="left">Hello World :3</h1>
 <h3 align="left">I am a person with passion and interest in technology, especially new technology</br>I also love to learn new things especially learning from others</h3>
-<h5 align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></h5>
-<h5 align="left">🏫 And now I live and studying at <strong>Saigon University</strong></h5>
+<h4 align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></h4>
+<h4 align="left">🏫 And now I live and studying at <strong>Saigon University</strong></h4>
 <br>
 
 
