@@ -16,19 +16,6 @@
 </div>
 
 
-<br>
-<br>
-<br>
-<h2 align="center"><strong>Connect with me !</strong>
-<br>
-<p>
-<a href="https://fb.com/edgawar.me.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edgawar.me.me" height="30" width="40" /></a>
-<a href="https://codepen.io/edgarignite16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edgarignite16" height="30" width="40" /></a>
-<a href="https://instagram.com/edgarrr16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgarrr16" height="30" width="40" /></a>
-<a href="https://discord.gg/4NqrXY2qR5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4NqrXY2qR5" height="30" width="40" /></a>
-
-</p>
-</h2>
 
 
 
