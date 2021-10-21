@@ -4,8 +4,6 @@
 <li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, PHP, C/C++</strong></li>
 <li align="left">🏫 And now I live and studying at <strong>Saigon University</strong></li>
 </ul>
-<br>
-
 
 <div align="center">
 <div align="left">
