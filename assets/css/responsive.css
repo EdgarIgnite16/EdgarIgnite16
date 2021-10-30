@@ -112,7 +112,7 @@
     }
 
     .contact-card__list--item-link:hover {
-        color: rgb(255, 136, 0);
+        color: var(--name-info-color);
         transform: scale(1);
     }
 
