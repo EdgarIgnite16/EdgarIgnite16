@@ -116,7 +116,7 @@ body {
     color: var(--name-info-color);
     margin-right: 12px;
     line-height: 28px;
-    animation: fadeOn 3s;
+    animation: fadeOn 0.5s;
 }
 
 .bar-header i {
