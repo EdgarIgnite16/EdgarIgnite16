@@ -26,7 +26,7 @@
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    padding: 32px 16px 28px;
+    padding: 40px 16px 28px;
     align-content: center;
 }
 
@@ -68,7 +68,6 @@
     padding: 8px;
 }
 
-
 .card-info--list-name {
     font-size: 2.1rem;
     font-weight: 500;
@@ -97,7 +96,8 @@
 
 .body-card {
     position: relative;
-    padding: 0 80px;
+    padding: 0 48px;
+    margin: 12px 0 30px;
 }
 
 .body-card::before {
@@ -109,6 +109,16 @@
     right: var(--width-line-border);
     border-top: 1px solid #e1e1e1;
 }
+
+/* .body-card::after {
+    --width-line-border: 8%;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: var(--width-line-border);
+    right: var(--width-line-border);
+    border-top: 1px solid #e1e1e1;
+} */
 
 .body-card__form {
     margin: 20px 0;
@@ -132,45 +142,20 @@
 }
 
 .body-card__list--item {
-    padding: 8px 16px;
+    padding: 8px 20px;
 }
 
-.bar-header {
-    margin-top: 4px;
-    font-size: 1.2rem;
-    color: var(--name-info-color);
-    font-weight: 600;
-}
-
-.bar-header i {
-    margin-right: 8px;
-}
-
-.bar-container {
-
-}
-
-.bar-container  p {
-    margin-right: 12px;
-    line-height: 28px;
-    text-align: right;
-    font-size: 1rem;
-    font-weight: 700;
-    color: #ffeb3b;
-}
-
-
-/* List time footer */
-.footer-card {
+/* List time contact */
+.contact-card {
     position: relative;
 }
 
-.footer-card__form {
+.contact-card__form {
     padding: 16px 80px 20px;
-    margin: 12px;
+    margin: 0 16px;
 }
 
-.footer-card__list {
+.contact-card__list {
     display: flex;
     list-style: none;
     justify-content: space-between;
@@ -179,7 +164,7 @@
     margin: 0;
 }
 
-.footer-card__list--item {
+.contact-card__list--item {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -190,25 +175,25 @@
 }
 
 
-.footer-card__list--item-icon {
+.contact-card__list--item-icon {
     font-size: 3rem;
 }
 
-.footer-card__list--item-link {
+.contact-card__list--item-link {
     position: relative;
     text-decoration: none;
     color: var(--name-info-color);
     transition: all 0.3s;
 }
 
-.footer-card__list--item-link:hover {
+.contact-card__list--item-link:hover {
     color: rgb(255, 136, 0);
     transform: scale(1.16);
 }
 
 
-.footer-card__sup-opt {
+.contact-card__sup-opt {
     border: 8px solid var(--shadow);
     padding: 16px 48px;
-    border-radius: 60px;
+    border-radius: 40px;
 }

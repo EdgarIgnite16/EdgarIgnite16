@@ -27,7 +27,7 @@
         margin: 12px 0;
     }
 
-    .footer-card__list--item-link:hover {
+    .contact-card__list--item-link:hover {
         color: rgb(255, 136, 0);
         transform: scale(1);
     }
@@ -80,36 +80,43 @@
 
     .body-card {
         padding: 0 8px;
+        margin-bottom: 0;
     }
     
     .body-header {
         font-size: 1.3rem;
         line-height: 1.4;
+        margin-bottom: 12px;
     }
     
     .bar-header {
         font-size: 1rem;
+        margin-left: 0;
     }
 
     .body-card__list--item {
         padding: 4px 12px;
     }
 
-    .footer-card__form {
+    .contact-card__form {
         padding: 0;
+        margin: 0 8px;
     }
 
-    .footer-card__sup-opt {
-
-        padding: 8px 20px;
+    .contact-card__sup-opt {
+        padding: 8px 16px;
     }
 
-    .footer-card__list--item-icon {
+    .contact-card__list--item-icon {
         font-size: 2rem;
     }
 
-    .footer-card__list--item-link:hover {
+    .contact-card__list--item-link:hover {
         color: rgb(255, 136, 0);
         transform: scale(1);
+    }
+
+    .bar-header i {
+        font-size: 2rem;
     }
 }
