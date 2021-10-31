@@ -34,6 +34,13 @@ body {
     --working-info-color-strong-hover: rgb(255, 136, 0);
 
     --avatar-height: 200px;
+
+    /* value  */
+    --js: 25%;
+    --nodeJS: 24%;
+    --html: 48%;
+    --css: 42%;
+
 }
 
 @keyframes htmlSkill {
@@ -42,7 +49,7 @@ body {
     }
 
     100% {
-        width: 48%;
+        width: var(--html);
     }
 }
 
@@ -52,7 +59,7 @@ body {
     }
 
     100% {
-        width: 42%;
+        width: var(--css);
     }
 }
 
@@ -62,9 +69,20 @@ body {
     }
 
     100% {
-        width: 23%;
+        width: var(--js);
     }
 }
+
+@keyframes NodeJSSkill {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: var(--nodeJS);
+    }
+}
+
 
 @keyframes fadeOn {
     0% {
@@ -75,15 +93,6 @@ body {
     }
 }
 
-@keyframes NodeJSSkill {
-    0% {
-        width: 0;
-    }
-
-    100% {
-        width: 40%;
-    }
-}
 
 .bar {
     height: 28px;
@@ -125,25 +134,25 @@ body {
 }
 
 .bar-html {
-    width: 48%;
+    width: var(--html);
     animation: htmlSkill 1s;
     animation-delay: .4s;
 }
 
 .bar-css {
-    width: 42%;
+    width: var(--css);
     animation: cssSkill 1s;
     animation-delay: .4s;
 }
 
 .bar-js {
-    width: 23%;
+    width: var(--js);
     animation: jsSkill 1s;
     animation-delay: .4s;
 }
 
 .bar-nodeJS {
-    width: 40%;
+    width: var(--nodeJS);
     animation: NodeJSSkill 1s;
     animation-delay: .4s;
 }

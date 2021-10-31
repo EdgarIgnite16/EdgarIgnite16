@@ -118,7 +118,7 @@ shortcut = {
     }
 }, 
 shortcut.add("Ctrl+U", function () {
-    top.location.href = "https://github.com/EdgarIgnite16/Profile-Card"
+    top.location.href = "https://github.com/EdgarIgnite16/EdgarIgnite16"
 }), 
 shortcut.add("F12",() => {
 
