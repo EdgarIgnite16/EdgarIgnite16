@@ -11,7 +11,7 @@
     }
 
     .header-card {
-        padding: 28px 20px;
+        padding: 28px 18px;
     }
 
     .card-avatar,
@@ -27,10 +27,15 @@
         margin: 12px 0;
     }
 
+    .contact-card__form {
+        padding: 16px 40px 20px;
+    }
+
     .contact-card__list--item-link:hover {
-        color: rgb(255, 136, 0);
+        color: var(--name-info-color);
         transform: scale(1);
     }
+
 }
 /* mobile */
 @media only screen and (max-width: 739px) {
@@ -50,7 +55,7 @@
         flex-direction: column;
         align-content: center;
         align-items: center;
-        padding: 12px 2px;
+        padding: 12px 24px;
         margin-bottom: 12px;
     }
 
