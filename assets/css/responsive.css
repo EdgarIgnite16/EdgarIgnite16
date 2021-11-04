@@ -11,7 +11,7 @@
     }
 
     .header-card {
-        padding: 28px 18px;
+        padding: 28px 24px;
     }
 
     .card-avatar,
@@ -49,13 +49,18 @@
         min-height: 0;
     }
 
+    .header-card--wrap {
+        margin-top: 20px;
+        padding: 20px;
+    }
+
     .header-card {
         display: flex;
         justify-content: space-around;
         flex-direction: column;
         align-content: center;
         align-items: center;
-        padding: 12px 24px;
+        padding: 12px 0;
         margin-bottom: 12px;
     }
 
@@ -80,12 +85,12 @@
     }
 
     .card-info--list li {
-        padding: 6px 16px;
+        padding: 6px 12px;
     }
 
     .body-card {
         padding: 0 8px;
-        margin-bottom: 0;
+        margin-bottom: 20px;
     }
     
     .body-header {
@@ -101,6 +106,10 @@
 
     .body-card__list--item {
         padding: 4px 12px;
+    }
+    
+    .contact-card {
+        padding-bottom: 12px;
     }
 
     .contact-card__form {

@@ -18,7 +18,7 @@ body {
 }
 
 :root {
-    --primary-color: linear-gradient(36deg, #e2eb8c 0%, #ffae52 100%);
+    --primary-color: linear-gradient(36deg, #e2eb8c 0%, #f88809 100%);
     --form-info-color: #f3f3f3;
     --border-color-avatar: #e9a96c;
     --white-color: #fff;
@@ -129,8 +129,10 @@ body {
 }
 
 .bar-header i {
-    margin-right: 8px;
+    margin-right: 4px;
     font-size: 2.5rem;
+    width: 40px;
+    right: 40px;
 }
 
 .bar-html {

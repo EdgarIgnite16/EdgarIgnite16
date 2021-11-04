@@ -15,18 +15,27 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-content: center;
-    background-color: var(--form-info-color);
-    box-shadow: 0 0 0 12px var(--shadow-blur);
-    border-radius: 12px;
+    background-color: tra;
     min-height: 600px;
     min-width: 800px;
+}
+
+.header-card--wrap,
+.body-card {
+    border-radius: 12px;
+    box-shadow: 0 0 0 12px var(--shadow-blur);
+    background-color: var(--form-info-color);   
+}
+
+.header-card--wrap {
+    padding: 32px 0;
 }
 
 .header-card {
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    padding: 40px 16px 28px;
+    padding: 16px 16px 28px;
     align-content: center;
 }
 
@@ -96,11 +105,11 @@
 
 .body-card {
     position: relative;
-    padding: 0 48px;
-    margin: 12px 0 30px;
+    padding: 0 28px;
+    margin: 40px 0;
 }
 
-.body-card::before {
+/* .body-card::before {
     --width-line-border: 8%;
     content: "";
     position: absolute;
@@ -108,7 +117,7 @@
     left: var(--width-line-border);
     right: var(--width-line-border);
     border-top: 1px solid #e1e1e1;
-}
+} */
 
 /* .body-card::after {
     --width-line-border: 8%;
@@ -151,7 +160,7 @@
 }
 
 .contact-card__form {
-    padding: 16px 80px 20px;
+    padding: 16px 80px;
     margin: 0 16px;
 }
 
