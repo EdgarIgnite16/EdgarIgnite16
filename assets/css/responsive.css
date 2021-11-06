@@ -47,6 +47,7 @@
     .main-card {
         min-width: 0;
         min-height: 0;
+        transform: translateY(-2%);
     }
 
     .header-card--wrap {
