@@ -81,7 +81,7 @@
     font-size: 2.1rem;
     font-weight: 500;
     line-height: 1.8rem;
-    margin: 16px 0;
+    margin: 12px 0;
     color: var(--name-info-color);
 }
 
@@ -205,4 +205,34 @@
     border: 8px solid var(--shadow);
     padding: 16px 48px;
     border-radius: 40px;
+}
+
+/* donate card */
+.donate-card {
+    padding: 16px 80px;
+    margin: 0 16px;
+}
+
+.donate-card__form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.donate-description {
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 12px 4px;
+    margin-bottom: 4px;
+    color: var(--name-info-color);
+}
+
+.donate-card-list {
+    list-style: none;
+}
+
+.donate-card--item {
+    transform: scale(1.4);
+    transition: all 0.3s !important;
 }

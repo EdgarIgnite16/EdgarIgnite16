@@ -51,7 +51,7 @@
 
     .header-card--wrap {
         margin-top: 20px;
-        padding: 20px;
+        padding: 20px 0;
     }
 
     .header-card {
@@ -78,6 +78,7 @@
         font-size: 1.4rem;
         line-height: 1.4;
         text-align: center;
+        margin-bottom: -2px;
     }
 
     .card-info--list-working {
@@ -109,7 +110,7 @@
     }
     
     .contact-card {
-        padding-bottom: 12px;
+        padding-bottom: 0;
     }
 
     .contact-card__form {
@@ -118,11 +119,11 @@
     }
 
     .contact-card__sup-opt {
-        padding: 8px 16px;
+        padding: 12px 16px;
     }
 
     .contact-card__list--item-icon {
-        font-size: 2rem;
+        font-size: 2.3rem;
     }
 
     .contact-card__list--item-link:hover {
@@ -132,5 +133,13 @@
 
     .bar-header i {
         font-size: 2rem;
+    }
+
+    .donate-description {
+        padding: 12px 0;
+    }
+
+    .donate-card--item {
+        transform: scale(1.2);
     }
 }

@@ -132,3 +132,5 @@ shortcut.add("Ctrl+S",() => {
 shortcut.add("Ctrl+Shift+C",() => {
 
 });
+
+

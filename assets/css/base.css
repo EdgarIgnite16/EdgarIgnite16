@@ -88,6 +88,7 @@ body {
     0% {
         opacity: 0;
     }
+
     100% {
         opacity: 1;
     }
@@ -158,3 +159,4 @@ body {
     animation: NodeJSSkill 1s;
     animation-delay: .4s;
 }
+
