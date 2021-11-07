@@ -157,11 +157,23 @@
 /* List time contact */
 .contact-card {
     position: relative;
+    position: relative;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
 
 .contact-card__form {
-    padding: 16px 80px;
+    padding: 0 80px 16px;
     margin: 0 16px;
+}
+
+.contact-description {
+    display: none;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--name-info-color);
 }
 
 .contact-card__list {
@@ -203,8 +215,8 @@
 
 .contact-card__sup-opt {
     border: 8px solid var(--shadow);
-    padding: 16px 48px;
     border-radius: 40px;
+    padding: 16px 48px;
 }
 
 /* donate card */
@@ -218,14 +230,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
-
-.donate-description {
-    font-size: 1.1rem;
-    font-weight: 600;
-    padding: 12px 4px;
-    margin-bottom: 4px;
-    color: var(--name-info-color);
 }
 
 .donate-card-list {

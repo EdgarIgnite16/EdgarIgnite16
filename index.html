@@ -21,7 +21,7 @@
         integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>EdgarIgnite16 - Edgar</title>
-    <script src="./assets/script/disableUser.js"></script>
+    <!-- <script src="./assets/script/disableUser.js"></script> -->
 </head>
 
 <body>
@@ -65,6 +65,7 @@
                 </div>
 
                 <div class="contact-card">
+                    <div class="contact-description">contact with me..</div>
                     <div class="contact-card__form">
                         <ul class="contact-card__list contact-card__sup-opt">
                             <li class="contact-card__list--item">
@@ -103,31 +104,31 @@
                             </li>
 
                             <li class="contact-card__list--item">
-                                <a href="https://www.youtube.com/channel/UCxdw9w03JaNFtwOPKN7DR8A" target="_blank"
+                                <a href="https://www.linkedin.com/in/edgar-tran-7919a8225/" target="_blank"
                                     class="contact-card__list--item-link">
-                                    <i class="contact-card__list--item-icon fab fa-youtube"></i>
+                                    <i class="contact-card__list--item-icon fab fa-linkedin-in"></i>
                                 </a>
                             </li>
                         </ul>
                     </div>
                 </div>
+            </div>
 
-                <div class="donate-card">
+            <!-- <div class="donate-card">
                     <div class="donate-card__form">
-                        <div class="donate-description">buy me a coffe :3 ☕</div>
                         <ul class="donate-card-list">
                             <li class="donate-card--item">
                                 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'>
                                 </script>
                                 <script type='text/javascript'>
-                                    kofiwidget2.init('Support Me on Ko-fi', '#f1a631', 'B0B46VNDU');
+                                    kofiwidget2.init('Buy me a coffe', '#f1a631', 'B0B46VNDU');
                                     kofiwidget2.draw();
                                 </script>
                             </li>
                         </ul>
                     </div>
-                </div>
-            </div>
+                </div> -->
+
             <!-- <div class="body-card">
                 <div class="body-card__form">
                     <div class="body-header">
@@ -176,23 +177,22 @@
 
                     </ul>
                 </div>
+            </div>
+        </div> -->
 
-            </div> -->
+            <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+            <script>
+                kofiWidgetOverlay.draw('edgar170402', {
+                    'type': 'floating-chat',
+                    'floating-chat.donateButton.text': 'Donate',
+                    'floating-chat.donateButton.background-color': '#fcbf47',
+                    'floating-chat.donateButton.text-color': '#323842'
+                });
+            </script>
         </div>
-        
-        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-        <script>
-            kofiWidgetOverlay.draw('edgar170402', {
-                'type': 'floating-chat',
-                'floating-chat.donateButton.text': 'Donate',
-                'floating-chat.donateButton.background-color': '#fcbf47',
-                'floating-chat.donateButton.text-color': '#323842'
-            });
+        <script type='text/javascript'>
+            document.addEventListener('contextmenu', event => event.preventDefault());
         </script>
-    </div>
-    <script type='text/javascript'>
-        document.addEventListener('contextmenu', event => event.preventDefault());
-    </script>
 </body>
 
 </html>
