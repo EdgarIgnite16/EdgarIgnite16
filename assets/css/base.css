@@ -18,7 +18,7 @@ body {
 }
 
 :root {
-    --primary-color: linear-gradient(36deg, #e2eb8c 0%, #f88809 100%);
+    --primary-color: linear-gradient(36deg, #ebb729 0%, #f88809 100%);
     --form-info-color: #f3f3f3;
     --border-color-avatar: #e9a96c;
     --white-color: #fff;
@@ -94,69 +94,32 @@ body {
     }
 }
 
-
-.bar {
-    height: 28px;
-    border-top-right-radius: 8px;
-    border-bottom-right-radius: 8px;
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px;
-    background-color: #e78b00;
-    color: #e2eb8c;
+@keyframes transitionIn {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
 }
 
-.bar-container {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: row;
-    align-items: center;
-}
-
-.bar-value {
-    margin-right: 12px;
-    line-height: 28px;
-    text-align: right;
-    font-size: 1rem;
-    font-weight: 700;
-    color: #ffeb3b;
-    animation: fadeOn 3s;
-}
-
-.bar-header {
-    color: var(--name-info-color);
-    margin-right: 12px;
-    line-height: 28px;
-    animation: fadeOn 0.5s;
-}
-
-.bar-header i {
-    margin-right: 4px;
-    font-size: 2.5rem;
-    width: 40px;
-    right: 40px;
-}
-
-.bar-html {
-    width: var(--html);
-    animation: htmlSkill 1s;
-    animation-delay: .4s;
-}
-
-.bar-css {
-    width: var(--css);
-    animation: cssSkill 1s;
-    animation-delay: .4s;
-}
-
-.bar-js {
-    width: var(--js);
-    animation: jsSkill 1s;
-    animation-delay: .4s;
-}
-
-.bar-nodeJS {
-    width: var(--nodeJS);
-    animation: NodeJSSkill 1s;
-    animation-delay: .4s;
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    25% {
+        background-position: 25% 50%;
+    }
+    50% {
+        background-position: 75% 50%;
+    }
+    75% {
+        background-position: 100% 75%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 

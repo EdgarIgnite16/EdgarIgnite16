@@ -62,6 +62,8 @@
         align-content: center;
         align-items: center;
         padding: 12px 0;
+        margin-right: 0;
+        margin-left: 0;
         margin-bottom: 12px;
     }
 
@@ -73,6 +75,10 @@
     .card-avatar-st {
         width: 180px;
         border-radius: 50%;
+    }
+
+    .card-avatar-st:hover {
+        box-shadow: none;
     }
 
     .card-info--list-name {

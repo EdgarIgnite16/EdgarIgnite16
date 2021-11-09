@@ -3,11 +3,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: var(--primary-color);
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
+    background: linear-gradient(-50deg, #fb5b2a, #e79d58, #ffc039, #f88809);
+    background-size: 400% 400%;
+    animation: gradient 8s ease infinite;
 }
 
 .main-card {
@@ -29,18 +31,31 @@
 
 .header-card--wrap {
     padding: 32px 0;
+    animation: transitionIn 0.75s;
 }
 
 .header-card {
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    padding: 16px 16px 28px;
     align-content: center;
+    padding: 16px 16px 28px;
+    margin: 0 30px;
+    position: relative;
+}
+
+.header-card::before {
+    --width-line-border: 8%;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: var(--width-line-border);
+    right: var(--width-line-border);
+    border-top: 1px solid #e1e1e1;
 }
 
 .card-avatar {
-    margin-left: 30px;
+    /* margin-left: 30px; */
 }
 
 .card-avatar-st {
@@ -49,13 +64,18 @@
     border-radius: 25%;
     width: var(--avatar-height);
     border: 8px solid var(--border-color-avatar);
+    transition: all 0.5s;
+}
+
+.card-avatar-st:hover {
+    box-shadow: 0 0 8px var(--border-color-avatar);
 }
 
 .card-info {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 30px;
+    /* margin-right: 30px; */
 }
 
 .card-info--list {
@@ -165,7 +185,7 @@
 
 .contact-card__form {
     padding: 0 80px 16px;
-    margin: 0 16px;
+    margin: 28px 16px 0;
 }
 
 .contact-description {
