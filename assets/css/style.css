@@ -7,17 +7,18 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: linear-gradient(-50deg, #fb5b2a, #e79d58, #ffc039, #f88809);
+    background: linear-gradient(-45deg, #fb5b2a 30%, #f18c2d, 
+    #ffc039, #f8c009, #fb5b2a, #ff8059, #ffb133, #f88809);
     background-size: 400% 400%;
-    animation: gradient 8s ease infinite;
+    animation: gradient 16s ease infinite;
 }
 
 .main-card {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
     align-content: center;
-    background-color: tra;
+    justify-content: space-evenly;
+    background-color: transparent;
     min-height: 600px;
     min-width: 800px;
 }
