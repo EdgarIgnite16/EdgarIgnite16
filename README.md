@@ -1,8 +1,8 @@
 <!-- <h1 align="left">Hello World ! Welcome to my Personal Github </h1> -->
 <h3 align="left"> -> I am a person with passion and interest in technology, especially new technology</br>-> And I also love to learn new things especially learning from others</h3>
 <ul>
-<li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
 <li align="left">🏫 I'm studying at <strong>Saigon University</strong></li>
+<li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
 </ul>
 
 <div align="center">
