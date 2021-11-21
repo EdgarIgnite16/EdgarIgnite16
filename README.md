@@ -4,6 +4,9 @@
 <li align="left">👋 Hello ! My name Nguyen Loc and you can call me Edgar</li>
 <li align="left">🏫 I'm studying at <strong>Saigon University</strong></li>
 <li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
+<li align="left">🔗 Contact with me: https://www.facebook.com/edgawar.me.me/</li>
+  
+  
 </ul>
 
 <h3 align="left"> -> I am a person with passion and interest in technology, especially new technology
