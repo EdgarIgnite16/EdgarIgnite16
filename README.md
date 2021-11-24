@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Hello World ! Welcome to my Personal Github </h1> -->
 
-<ul>
+<ul style="font-size: 20px">
   <li align="left">👋 Hello ! My name <strong>Nguyen Loc</strong> and you can call me <strong>Edgar</strong></li>
 <li align="left">🏫 I'm studying at <strong>Saigon University</strong></li>
 <li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
