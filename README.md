@@ -1,7 +1,7 @@
 <!-- <h1 align="left">Hello World ! Welcome to my Personal Github </h1> -->
 
 <ul>
-<li align="left">👋 Hello ! My name Nguyen Loc and you can call me Edgar</li>
+  <li align="left">👋 Hello ! My name <strong>Nguyen Loc</strong> and you can call me <strong>Edgar</strong></li>
 <li align="left">🏫 I'm studying at <strong>Saigon University</strong></li>
 <li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
 <li align="left">🔗 Contact with me: https://www.facebook.com/edgawar.me.me/</li>
