@@ -1,10 +1,10 @@
 <!-- <h1 align="left">Hello World ! Welcome to my Personal Github </h1> -->
 ![undraw_Code_thinking_re_gka2](https://user-images.githubusercontent.com/77919820/144700022-fbb04132-4ccb-4688-99d0-94bbbdf6c1de.png)
 
-<ul style="font-size: 20px">
+<ul>
 <li align="left">👋 Hello ! My name <strong>Nguyen Loc</strong> and you can call me <strong>Edgar</strong></li>
 <li align="left">🏫 I'm studying at <strong>Saigon University</strong></li>
-<li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong></li>
+<li align="left">🌱 I’m currently learning <strong>JavaScript, HTML/CSS, JAVA, C/C++</strong> and start to become Backend Dev</li>
 <li align="left">🔗 Contact with me: https://www.facebook.com/edgawar.me.me/</li>
 </ul>
 
