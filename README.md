@@ -1,4 +1,5 @@
 <!-- <h1 align="left">Hello World ! Welcome to my Personal Github </h1> -->
+![undraw_Code_thinking_re_gka2](https://user-images.githubusercontent.com/77919820/144700022-fbb04132-4ccb-4688-99d0-94bbbdf6c1de.png)
 
 <ul style="font-size: 20px">
 <li align="left">👋 Hello ! My name <strong>Nguyen Loc</strong> and you can call me <strong>Edgar</strong></li>
