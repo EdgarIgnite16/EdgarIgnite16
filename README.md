@@ -9,8 +9,6 @@
 <li align="left">🔗 Contact with me: https://www.facebook.com/edgawar.me.me/</li>
 </ul>
 
-<h3 align="left"> -> I am a person with passion and interest in technology, especially new technology
-</br>-> And I also love to learn new things especially learning from others</h3>
 
 <!-- 
 <div align="center">
