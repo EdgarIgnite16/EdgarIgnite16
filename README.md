@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Edgar Ignite (Tran Nguyen Loc)</h1>
-<h3 align="left">Currently studying and training to become a Mobile Dev</h3>
+<h4 align="left">Currently studying and training to become a Mobile Dev</h4>
 <br>
 
 
