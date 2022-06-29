@@ -1,6 +1,8 @@
-<h1 align="left">Hi 👋, I'm Edgar Ignite (Tran Nguyen Loc)</h1>
-<h4 align="left">Currently studying and training to become a Mobile Dev 📱</h4>
-<h4 align="left">And i always hard work on silence 💪</h4>
+<h2 align="left">Hi 👋, I'm Edgar Ignite (Tran Nguyen Loc)</h2>
+<ul>
+  <li>Currently studying and training to become a Mobile Dev 📱 </li>
+  <li>And i always hard work on silence 💪</li>
+</ul>
 <br>
 
 
