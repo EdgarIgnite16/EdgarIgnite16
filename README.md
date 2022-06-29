@@ -3,7 +3,6 @@
   <li>Currently studying and training to become a Mobile Dev 📱 </li>
   <li>And i always hard work on silence 💪</li>
 </ul>
-<br>
 
 
 ## Languages and Tools:
