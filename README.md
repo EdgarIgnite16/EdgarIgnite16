@@ -4,6 +4,8 @@
   <li>And i always hard work on silence 💪</li>
 </ul>
 
+![image](https://user-images.githubusercontent.com/77919820/178120420-5fc18ff3-32c9-46d3-9fd8-cf6eee7f6501.png)
+
 
 ## Current languages learning:
 <p align="left"> 
