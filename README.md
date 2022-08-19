@@ -1,11 +1,3 @@
-<h2 align="left">Hi 👋, I'm Edgar Ignite (Tran Nguyen Loc)</h2>
-<ul>
-  <li>Currently studying and training to become a Mobile Developer 📱 </li>
-  <li>And i always hard work on silence 💪</li>
-</ul>
-
-![image](https://user-images.githubusercontent.com/77919820/178120420-5fc18ff3-32c9-46d3-9fd8-cf6eee7f6501.png)
-
 <a href="https://github.com/EdgarIgnite16"><img alt="EdgarIngite16 Graph" src="https://activity-graph.herokuapp.com/graph?username=EdgarIgnite16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 ## Current languages learning:
