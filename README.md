@@ -7,8 +7,3 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edgawarignj) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/edgar170402) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/edgar170402) 
-
-## ✍️Quotes Random
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarignite16&label=Profile%20views&color=0e75b6&style=flat" alt="edgarignite16" /> </p>
